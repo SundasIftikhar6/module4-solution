@@ -63,4 +63,4 @@ for (var i in names) {
   }
 }
 
-})();
+})(window);
